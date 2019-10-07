@@ -1,7 +1,7 @@
-logoEnabled = 1
-splashEnabled = 1
-animatedSplash = 1
+logoEnabled = 0
+splashEnabled = 0
+animatedSplash = 0
 passwordProtection = 0
 password = "1111"
-CPUType = UltraCore
-CPUClock = 3.4GHz
+CPUType = Mineputer X96
+CPUClock = 16.50 MHz
